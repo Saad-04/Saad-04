@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Learning management System**
 
-- 💬 Ask me about **Fullstack development**
+- 💬 Ask me about **<Tech_coding/>**
 
 - 📫 How to reach me **asaad4674@gmail.com**
 
