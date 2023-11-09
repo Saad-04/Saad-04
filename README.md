@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Learning management System**
 
-- 💬 Ask me about **<Tech_coding/>**
+- 💬 Ask me about **<span style={{color:yellow}}>--Tech_Coding--</span>**
 
 - 📫 How to reach me **asaad4674@gmail.com**
 
