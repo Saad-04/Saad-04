@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **<span style={{color:yellow}}>--Tech_Programming_Software_Engineering--</span>**
   
-- 📫 Recently I'm leanring **DevOps**
+- 📫 Recently I'm learning **DevOps**
   
 - 📫 How to reach me **asaad4674@gmail.com**
 
